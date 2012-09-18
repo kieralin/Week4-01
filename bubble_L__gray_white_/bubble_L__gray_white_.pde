@@ -1,7 +1,7 @@
 /**
  * Simple Read
  * 
- * Read data from the serial port and change the color of a rectangle
+ * Read data from the serial port and change the color of a ellipses that forms letter L
  * when a switch connected to a Wiring or Arduino board is pressed and released.
  * This example works with the Wiring / Arduino program that follows below.
  */
